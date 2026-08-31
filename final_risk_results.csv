@@ -1,0 +1,20 @@
+Metric,Value
+Annualized Portfolio Return,14.01935361263385
+Annualized Portfolio Volatility,13.753166132144143
+Sharpe Ratio,0.5467361871721657
+Diversification Ratio,1.7218343341463502
+95% Historical VaR,1.3313915281109705
+99% Historical VaR,2.246884415414266
+95% Expected Shortfall,1.9247635703865202
+99% Expected Shortfall,2.967135627462515
+95% Parametric VaR,1.3694162433762556
+99% Parametric VaR,1.9598410727447428
+95% Monte Carlo VaR,1.3780838943712452
+99% Monte Carlo VaR,1.9548117709943513
+Maximum Drawdown,-17.72148572
+Number of PCA Factors,8
+Variance Explained by Selected Factors,84.76810161956703
+Systematic Risk Share,96.31153401543106
+Idiosyncratic Risk Share,3.688465984568924
+95% VaR Breach Rate,5.647263249348393
+Kupiec Test p-value,0.3231431673992816
